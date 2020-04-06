@@ -1,4 +1,19 @@
 {
+  "name": "amazon-login-front",
+  "description": "An example of a Amazon Login FE.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeniosegala/amazon-login-front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugeniosegala/amazon-login-front/issues"
+  },
+  "homepage": "https://github.com/eugeniosegala/amazon-login-front#readme",
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html"
