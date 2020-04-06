@@ -1,5 +1,5 @@
 {
-  "name": "amazon-login-front",
+  "name": "amazon-login-front-test",
   "description": "An example of a Amazon Login FE.",
   "version": "1.0.1",
   "main": "index.js",
